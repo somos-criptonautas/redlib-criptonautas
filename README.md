@@ -1,5 +1,7 @@
 # Redlib
 
+[Criptonautas] Internal Plausible version allowed, it can be blocked trough uBlock Origin or similar software.
+
 > An alternative private front-end to Reddit, with its origins in [Libreddit](https://github.com/libreddit/libreddit).
 
 ![screenshot](https://i.ibb.co/18vrdxk/redlib-rust.png)
